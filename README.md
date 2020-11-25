@@ -1,3 +1,3 @@
 # git_workshop
 
-Welcome to TomorrowDevs Git project
+Welcome to TomorrowDevs Git project ok
